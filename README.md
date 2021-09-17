@@ -4,7 +4,7 @@
 
 Я автор [Движка](https://github.com/webrobot1/engine) для прототипирования пиложений , являющегося основой моих проектов
 
-Помимо основной работы занимаюсь разработкой проекта [Онлайн игры](https://github.com/webrobot1/app-server) для мобильных устройств (серверная часть на PHP и клиентская на Unity)    
+Помимо основной работы занимаюсь разработкой проекта [Онлайн игры](https://github.com/webrobot1?tab=repositories&q=%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&type=&language=&sort=) для мобильных устройств ([серверная часть](https://github.com/webrobot1/app-server) на PHP и клиентская на [Unity](https://github.com/webrobot1/unity))    
 
 Профессиональыне навыки: 
 
