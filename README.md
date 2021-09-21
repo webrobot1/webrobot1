@@ -6,7 +6,7 @@
 
 Помимо основной работы занимаюсь разработкой собственный проекта [Онлайн игры](https://github.com/webrobot1?tab=repositories&q=%D0%9E%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD&type=&language=&sort=) для мобильных устройств ([серверная часть](https://github.com/webrobot1/app-server) на PHP и клиентская на [Unity](https://github.com/webrobot1/unity)) , так же доступна [браузерная версия](http://95.216.204.181:8080/data/game/index.html)     
 
-Рассматриваю работу в сфере GameDev - [резюме](https://hh.ru/applicant/resumes/view?resume=04918507ff08eeaac20039ed1f446f704e4d49) , [linkedin](https://www.linkedin.com/in/webrobot)
+Рассматриваю работу в сфере GameDev - [резюме hh.ru](https://hh.ru/applicant/resumes/view?resume=04918507ff08eeaac20039ed1f446f704e4d49) , [linkedin](https://www.linkedin.com/in/webrobot)
 
 Профессиональыне навыки: 
 
