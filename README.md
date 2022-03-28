@@ -11,7 +11,7 @@
 Рассматриваю работу в сфере GameDev.    
 Резюме: [hh.ru](https://hh.ru/applicant/resumes/view?resume=04918507ff08eeaac20039ed1f446f704e4d49) , [linkedin](https://www.linkedin.com/in/webrobot)
 
-Профессиональыне навыки: 
+Профессиональные навыки: 
 
     PHP - Senior
     Mysql - Senior 
