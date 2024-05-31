@@ -10,6 +10,6 @@
 
 
 Подробнее можно ознакомиться на:
-+ [http://my-fantasy.ru](http://my-fantasy.ru)
++ [http://mmogick.ru](http://mmogick.ru)
 + [Youtube](https://www.youtube.com/@myfantasyapi)
 + [Habr](https://habr.com/ru/users/webrobot/posts/)
