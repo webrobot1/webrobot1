@@ -1,7 +1,9 @@
 # <p align="center">Авторский проект авторитарного сервера для создания 2D MMO RPG онлайн игр.</p> 
 
-![Презентация игрового сервера Моя Фантазия от программиста Стрельцова Михаила Вячеславовича](https://github.com/webrobot1/webrobot1/assets/20768848/6367fcb2-2ff4-497c-a09d-8e657c4195d8)
-![Презентация игрового сервера Моя Фантазия от программиста Стрельцова Михаила Вячеславовича](https://github.com/webrobot1/webrobot1/assets/20768848/ddf97ea3-a608-4537-8174-00cb02676d99)
+![MMOGICK - сервис создания 2D RPG MMO игр](https://github.com/webrobot1/webrobot1/assets/20768848/6367fcb2-2ff4-497c-a09d-8e657c4195d8)
+![MMOGICK - сервис создания 2D RPG MMO игр](https://github.com/webrobot1/webrobot1/assets/20768848/ddf97ea3-a608-4537-8174-00cb02676d99)
+![MMOGICK - сервис создания 2D RPG MMO игр](https://github.com/webrobot1/webrobot1/assets/20768848/fc53ce97-174b-4789-a67c-62f2304e1de8)
+
 
 ![Презентация игрового сервера Моя Фантазия от программиста Стрельцова Михаила Вячеславовича](https://github.com/webrobot1/webrobot1/assets/20768848/688c3a47-e9c2-4ab5-8c73-46cac087ddae)
 ![Презентация игрового сервера Моя Фантазия от программиста Стрельцова Михаила Вячеславовича](https://github.com/webrobot1/webrobot1/assets/20768848/0c44684a-a598-464c-b354-78e57e1cea78)
