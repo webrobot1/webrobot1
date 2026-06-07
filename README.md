@@ -11,7 +11,6 @@
 
 
 Additional:
-+ [http://mmogick.com](http://mmogick.com)
 + [Youtube](https://www.youtube.com/@mmogick_en)
 + [ProductHunt](https://www.producthunt.com/products/api-server-for-2d-mmo-rpg-online-games)
 
@@ -27,6 +26,5 @@ Additional:
 
 
 Подробнее можно ознакомиться на:
-+ [http://mmogick.ru](http://mmogick.ru)
 + [Youtube](https://www.youtube.com/@mmogick_ru)
 + [Habr](https://habr.com/ru/users/webrobot/posts/)
